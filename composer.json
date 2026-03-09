@@ -1,5 +1,5 @@
 {
-    "name": "drupal/backport_node_storage_body_field",
+    "name": "openeuropa/backport_node_storage_body_field",
     "description": "Polyfill for the node_storage_body_field sub-module introduced in Drupal 11.3. On 11.3+ this is a no-op metapackage.",
     "type": "metapackage",
     "license": "GPL-2.0-or-later",
