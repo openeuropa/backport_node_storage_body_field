@@ -1,0 +1,9 @@
+{
+    "name": "drupal/node_storage_body_field",
+    "description": "Polyfill for the node_storage_body_field sub-module introduced in Drupal 11.3.",
+    "type": "drupal-module",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "drupal/core": ">=10.3 <11.3"
+    }
+}

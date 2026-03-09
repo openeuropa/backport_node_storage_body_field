@@ -1,0 +1,6 @@
+name: 'Node storage body field'
+type: module
+description: 'Polyfill for the node_storage_body_field sub-module introduced in Drupal 11.3. Provides field.storage.node.body on older core versions.'
+package: Other
+dependencies:
+  - drupal:node
