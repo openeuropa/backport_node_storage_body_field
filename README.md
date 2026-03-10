@@ -18,7 +18,7 @@ Add to your module's `composer.json`:
 
 ```json
 "require": {
-    "drupal/node_storage_body_field": "^1 || ^2"
+    "drupal/backport_node_storage_body_field": "^1 || ^2"
 }
 ```
 
